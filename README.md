@@ -27,3 +27,7 @@ With `input.csv` ready:
 ### GUI
 
 `python download_gui.py`
+
+## Credits
+
+https://www.lisenet.com/2022/how-to-download-view-only-teams-meeting-recording-video-from-sharepoint/
