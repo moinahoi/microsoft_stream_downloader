@@ -12,6 +12,8 @@
 
 ## Download from Microsoft Stream
 
+As URL, copy the entire URL from the stream-site's network protocol looking for `videomanifest`.
+
 ### Single Input
 
 `python download_single.py video.mp4 "https://..."`
